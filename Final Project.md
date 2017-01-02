@@ -25,8 +25,9 @@
 
 * **自回避随机游走**
 
-在数学上，自回避随机游走（SAW）是指在网格上一系列重复经过同一个点的一系列移动。In mathematics, a self-avoiding walk (SAW) is a sequence of moves on a lattice (a lattice path) that does not visit the same point more than once.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在数学上，自回避随机游走（SAW）是指在网格上一系列重复经过同一个点的一系列移动。自回避随机游走最早被保罗·弗洛里提出用来模拟链状实体比如溶剂和聚合物的真实行为，它们拥有的体积禁止在空间同一个点上有多个物体。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自回避多边形（SAP）是网格上一个封闭的自回避随机游走的路径。
 
 * **扩散**
 

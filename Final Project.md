@@ -23,9 +23,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在很多系统都存在不同类型的随机游走，他们都具有相似结构。单个的随机事件我们不可预测，但随机大量的群体行为，却是精确可知的，这就是概率世界的魅力，在偶然中隐含着必然。随机性造成了低尺度下的差异性，但在高尺度下又表现为共同的特征的相似性。按照概率的观点“宇宙即是所有随机事件概率的总和”。
 
+* **自回避随机游走**
 
-
-
+在数学上，自回避随机游走（SAW）是指在网格上一系列重复经过同一个点的一系列移动。In mathematics, a self-avoiding walk (SAW) is a sequence of moves on a lattice (a lattice path) that does not visit the same point more than once.
 
 
 * **扩散**

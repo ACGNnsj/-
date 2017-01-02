@@ -42,6 +42,15 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=J=-D\frac{\partial&space;\phi&space;}{\partial&space;x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J=-D\frac{\partial&space;\phi&space;}{\partial&space;x}" title="J=-D\frac{\partial \phi }{\partial x}" /></a></div>
 
+其中，<a href="http://www.codecogs.com/eqnedit.php?latex=J" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J" title="J" /></a>为“扩散通量”（于某单位时间内通过某单位面积的物质量），<a href="http://www.codecogs.com/eqnedit.php?latex=J" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J" title="J" /></a>为扩散系数或扩散度，<a href="http://www.codecogs.com/eqnedit.php?latex=\phi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\phi" title="\phi" /></a>为浓度（假设为理想混合物）。
+
+根据斯托克斯-爱因斯坦关系，<a href="http://www.codecogs.com/eqnedit.php?latex=D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D" title="D" /></a>的大小取决于温度、流体黏度与分子大小，并与扩散分子流动的平均速度平方成正比。
+
+在二维或以上的情况下，我们必须使用<a href="http://www.codecogs.com/eqnedit.php?latex=\nabla" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\nabla" title="\nabla" /></a>来把第一导数通用化，得
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=J=-D\nabla\phi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J=-D\nabla\phi" title="J=-D\nabla\phi" /></a></div>
+
+
 ###3. 正文
 
 

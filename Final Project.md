@@ -70,13 +70,15 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=S=k\ln\Omega" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S=k\ln\Omega" title="S=k\ln\Omega" /></a></div>
 
-这个公式称为“玻尔兹曼公式”，其中<a href="http://www.codecogs.com/eqnedit.php?latex=k" target="_blank"><img src="http://latex.codecogs.com/gif.latex?k" title="k" /></a>是玻尔兹曼常数，<a href="http://www.codecogs.com/eqnedit.php?latex=\Omega" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Omega" title="\Omega" /></a>则为系统宏观状态中所包含的微观状态总数。根据这个公式，我们可以将熵看作是一个系统“混乱程度”的度量，因为一个系统越混乱，可以看作是微观状态分布越均匀。根据熵的统计学定义，热力学第二定律说明一个孤立系统的倾向于增加混乱程度。
+这个公式称为“玻尔兹曼公式”，其中<a href="http://www.codecogs.com/eqnedit.php?latex=k" target="_blank"><img src="http://latex.codecogs.com/gif.latex?k" title="k" /></a>是玻尔兹曼常数，<a href="http://www.codecogs.com/eqnedit.php?latex=\Omega" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Omega" title="\Omega" /></a>则为系统宏观状态中所包含的微观状态总数。根据玻尔兹曼的定义，熵是一则关于状态的函数。并且因为<a href="http://www.codecogs.com/eqnedit.php?latex=\Omega" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Omega" title="\Omega" /></a>是一个自然数（1,2,3,...），熵必定是个非负数。根据这个公式，我们可以将熵看作是一个系统“混乱程度”的度量，因为一个系统越混乱，可以看作是微观状态分布越均匀。根据熵的统计学定义，热力学第二定律说明一个孤立系统的倾向于增加混乱程度。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以严格证明，玻尔兹曼公式的另一种等价表述形式是
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" title="S=-k\sum_{s}^{ }P_{s}\ln P_{s}" /></a></div>
 
-根据玻尔兹曼的定义，熵是一则关于状态的函数。并且因为<a href="http://www.codecogs.com/eqnedit.php?latex=\Omega" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Omega" title="\Omega" /></a>是一个自然数（1,2,3,...），熵必定是个非负数。
+其中<a href="http://www.codecogs.com/eqnedit.php?latex=s" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s" title="s" /></a>标记所有可能的微观态， <a href="http://www.codecogs.com/eqnedit.php?latex=P_{s}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P_{s}" title="P_{s}" /></a>表示微观态<a href="http://www.codecogs.com/eqnedit.php?latex=s" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s" title="s" /></a>的出现几率。
+
+
 
 ###3. 正文
 

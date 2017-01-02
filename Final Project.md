@@ -30,9 +30,9 @@
 
 * **扩散**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分子扩散，通常简称为扩散，是分子通过随机分子运动从高浓度（或高化学势）区域向低浓度（或低化学势）区域的网状的传播。扩散的结果是物质缓慢地混合起来。
+<p style="line-height:100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分子扩散，通常简称为扩散，是分子通过随机分子运动从高浓度（或高化学势）区域向低浓度（或低化学势）区域的网状的传播。扩散的结果是物质缓慢地混合起来。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散现象是分子的内迁移现象。从微观上分析是大量分子做无规则热运动时，分子之间发生相互碰撞的结果。由于不同空间区域的分子密度分布不均匀，分子发生碰撞的情况也不同。这种碰撞迫使密度大的区域的分子向密度小的区域转移，最后达到均匀的密度分布。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散现象是分子的内迁移现象。从微观上分析是大量分子做无规则热运动时，分子之间发生相互碰撞的结果。由于不同空间区域的分子密度分布不均匀，分子发生碰撞的情况也不同。这种碰撞迫使密度大的区域的分子向密度小的区域转移，最后达到均匀的密度分布。</p>
 
 * **扩散定律**
 
@@ -44,7 +44,7 @@
 
 其中，<a href="http://www.codecogs.com/eqnedit.php?latex=J" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J" title="J" /></a>为“扩散通量”（于某单位时间内通过某单位面积的物质量），<a href="http://www.codecogs.com/eqnedit.php?latex=J" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J" title="J" /></a>为扩散系数或扩散度，<a href="http://www.codecogs.com/eqnedit.php?latex=\phi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\phi" title="\phi" /></a>为浓度（假设为理想混合物）。
 
-根据斯托克斯-爱因斯坦关系，<a href="http://www.codecogs.com/eqnedit.php?latex=D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D" title="D" /></a>的大小取决于温度、流体黏度与分子大小，并与扩散分子流动的平均速度平方成正比。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据斯托克斯-爱因斯坦关系，<a href="http://www.codecogs.com/eqnedit.php?latex=D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D" title="D" /></a>的大小取决于温度、流体黏度与分子大小，并与扩散分子流动的平均速度平方成正比。
 
 在二维或以上的情况下，我们必须使用<a href="http://www.codecogs.com/eqnedit.php?latex=\nabla" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\nabla" title="\nabla" /></a>来把第一导数通用化，得
 

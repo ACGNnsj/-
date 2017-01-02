@@ -26,9 +26,10 @@
 
 
 
+
 * **扩散**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分子扩散，通常简称为扩散，是分子通过随机分子运动从高浓度（或高化学势）区域向低浓度（或低化学势）区域的网状的传播。扩散的结果是物质缓慢地混合起来。
 
 ###3. 正文
 

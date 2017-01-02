@@ -54,6 +54,10 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\phi&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\varphi&space;}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\phi&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\varphi&space;}{\partial&space;x^{2}}" title="\frac{\partial \phi }{\partial t}=D\frac{\partial ^{2}\varphi }{\partial x^{2}}" /></a></div>
 
+对于二维或以上的扩散，其菲克第二定律为：
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\phi&space;}{\partial&space;t}=D\nabla^{2}\varphi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\phi&space;}{\partial&space;t}=D\nabla^{2}\varphi" title="\frac{\partial \phi }{\partial t}=D\nabla^{2}\varphi" /></a></div>
+
 
 ###3. 正文
 

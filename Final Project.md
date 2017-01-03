@@ -79,8 +79,6 @@
 
 其中<a href="http://www.codecogs.com/eqnedit.php?latex=s" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s" title="s" /></a>标记所有可能的微观态， <a href="http://www.codecogs.com/eqnedit.php?latex=P_{s}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P_{s}" title="P_{s}" /></a>表示微观态<a href="http://www.codecogs.com/eqnedit.php?latex=s" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s" title="s" /></a>的出现几率。
 
-
-
 ###3. 正文
 
 

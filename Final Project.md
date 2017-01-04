@@ -205,6 +205,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-2.png?raw=true" /></div>
 
 
 ###4. 结果讨论

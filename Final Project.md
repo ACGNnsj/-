@@ -1,4 +1,4 @@
-<h1 align = "center">Final Project——</h1>
+<h1 align = "center">Final Project——Start with random walk</h1>
 
 <div align=center>
 倪世杰 2014301020001

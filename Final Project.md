@@ -214,6 +214,8 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j,1\leq&space;i,j\leq&space;n}^{&space;}E(s_{i})E(s_{j})&space;\\=nE(s^{2})&plus;n(n-1)[E(s)]^{2}=n&plus;\frac{1}{4}n(n-1)=\frac{1}{4}n(n&plus;3)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j,1\leq&space;i,j\leq&space;n}^{&space;}E(s_{i})E(s_{j})&space;\\=nE(s^{2})&plus;n(n-1)[E(s)]^{2}=n&plus;\frac{1}{4}n(n-1)=\frac{1}{4}n(n&plus;3)" title="E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})+\sum_{i\neq j,1\leq i,j\leq n}^{ }E(s_{i})E(s_{j}) \\=nE(s^{2})+n(n-1)[E(s)]^{2}=n+\frac{1}{4}n(n-1)=\frac{1}{4}n(n+3)" /></a></div>
 
+经验算，所得曲线和该式符合很好。
+
 ###4. 结果讨论
 
 ---

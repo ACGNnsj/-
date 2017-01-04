@@ -129,7 +129,9 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-2.png?raw=true" /></div>
 
-可以看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值大致等于步数，这是因为
+可以看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值大致等于步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>。接下来我们从理论上具体分析原因：
+
+因为
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E\left&space;(&space;\overline{x^{2}}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right&space;)=\frac{1}{N}\sum_{i=1}^{N}E\left&space;(&space;\&space;x_{i}^{2}\right&space;)=E\left&space;(&space;\&space;x_{i}^{2}\right&space;)=E\left&space;[\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E\left&space;(&space;\overline{x^{2}}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right&space;)=\frac{1}{N}\sum_{i=1}^{N}E\left&space;(&space;\&space;x_{i}^{2}\right&space;)=E\left&space;(&space;\&space;x_{i}^{2}\right&space;)=E\left&space;[\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]" title="E\left ( \overline{x^{2}} \right )=E\left ( \ \frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right )=\frac{1}{N}\sum_{i=1}^{N}E\left ( \ x_{i}^{2}\right )=E\left ( \ x_{i}^{2}\right )=E\left [\left ( \sum_{j=1}^{n}s_{ij} \right )^{2} \right ]" /></a></div>
 
@@ -168,6 +170,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_2-2.png?raw=true" /></div>
+
+可以看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值仍然与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>成正比，但其值要比之前小很多。下面我们从理论上给出解释：
+
+由<a href="http://www.codecogs.com/eqnedit.php?latex=s\sim&space;U[-1,1]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s\sim&space;U[-1,1]" title="s\sim U[-1,1]" /></a>，有
+
 
 
 ###4. 结果讨论

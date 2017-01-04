@@ -191,6 +191,11 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-1.png?raw=true" /></div>
 
+不难看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值约为步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{1}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{1}{2}" title="\frac{1}{2}" /></a>。
+
+而
+
+
 
 ###4. 结果讨论
 

@@ -210,7 +210,7 @@
 
 由于该种情况下，<a href="http://www.codecogs.com/eqnedit.php?latex=E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" title="E(s)=0.75\times 1+0.25\times (-1)=\frac{1}{2}\neq 0" /></a>，则有
 
-
+<a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j&space;,1\leq&space;i,j\leq&space;n}^{}E(s_{i})E(s_{j})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j&space;,1\leq&space;i,j\leq&space;n}^{}E(s_{i})E(s_{j})" title="E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})+\sum_{i\neq j ,1\leq i,j\leq n}^{}E(s_{i})E(s_{j})" /></a><a href="http://www.codecogs.com/eqnedit.php?latex==nE(s^{2})&plus;n(n-1)[E(s)]^{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?=nE(s^{2})&plus;n(n-1)[E(s)]^{2}" title="=nE(s^{2})+n(n-1)[E(s)]^{2}" /></a>
 
 
 ###4. 结果讨论

@@ -126,6 +126,7 @@
 
 可以看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值大致等于步数，这是因为
 
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E\left&space;(&space;\overline{x^{2}}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right&space;)=E\left&space;[&space;\frac{1}{N}\sum_{i=1}^{N}\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E\left&space;(&space;\overline{x^{2}}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right&space;)=E\left&space;[&space;\frac{1}{N}\sum_{i=1}^{N}\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]" title="E\left ( \overline{x^{2}} \right )=E\left ( \ \frac{1}{N}\sum_{i=1}^{N}x_{i}^{2}\right )=E\left [ \frac{1}{N}\sum_{i=1}^{N}\left ( \sum_{j=1}^{n}s_{ij} \right )^{2} \right ]" /></a></div>
 
 ###4. 结果讨论
 

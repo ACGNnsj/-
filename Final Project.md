@@ -31,14 +31,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在数学上，自回避随机游走（SAW）是指在网格上一系列重复经过同一个点的一系列移动。自回避多边形（SAP） 则是指网格上一个封闭的自回避随机游走的路径。自回避随机游走最早被保罗·弗洛里提出用来模拟链状实体比如溶剂和聚合物的真实行为，它们拥有的体积禁止在空间同一个点上有多个物体。尽管物理学家提出了许多有数值模拟强力支持并被认为是正确的猜想，但是从数学角度来说，我们对自回避随机游走了解非常少。
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/knot_3a_blog.jpg?raw=true" /></div>
+
+<div align=center>一种自回避多边形</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在计算物理中，自回避随机游走是一个二维或三维欧几里得空间中有固定节点数和步长的链状路线，并且其被禁止穿过自身或其他路线。一个自回避随机游走系统满足所谓的排斥体积条件。在更高维度中，自回避随机游走被认为行为更像原本的随机游走。自回避随机游走和自回避多边形在模型化如蛋白质的线状或环状分子的拓扑和纽结理论行为时起到核心作用。自回避随机游走是分形的。例如，在二维空间中，分形维数是<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{4}{3}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{4}{3}" title="\frac{4}{3}" /></a>，三维空间中，分形维数接近<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{5}{3}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{5}{3}" title="\frac{5}{3}" /></a>，在四维和更高维空间中，分形维数为<a href="http://www.codecogs.com/eqnedit.php?latex=2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?2" title="2" /></a>。这个维数被称为上临界维数，当超过这个维数时排斥体积是微不足道的。
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/quantum_cloud_front_775.jpg?raw=true" /></div>
 
 * **扩散**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分子扩散，通常简称为扩散，是分子通过随机分子运动从高浓度（或高化学势）区域向低浓度（或低化学势）区域的网状的传播。扩散的结果是物质缓慢地混合起来。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散现象是分子的内迁移现象。从微观上分析是大量分子做无规则热运动时，分子之间发生相互碰撞的结果。由于不同空间区域的分子密度分布不均匀，分子发生碰撞的情况也不同。这种碰撞迫使密度大的区域的分子向密度小的区域转移，最后达到均匀的密度分布。</font>
-
 
 
 * **扩散定律**

@@ -23,7 +23,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在很多系统都存在不同类型的随机游走，他们都具有相似结构。单个的随机事件我们不可预测，但随机大量的群体行为，却是精确可知的，这就是概率世界的魅力，在偶然中隐含着必然。随机性造成了低尺度下的差异性，但在高尺度下又表现为共同的特征的相似性。按照概率的观点“宇宙即是所有随机事件概率的总和”。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/HK4nV.jpg?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/quantum_cloud_front_775.jpg?raw=true" /></div>
+
+<div align=center>雕塑家安东尼·葛姆雷使用随机游走算法创作的雕塑——“量子云”</div>
 
 * **自回避随机游走**
 

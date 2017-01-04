@@ -25,7 +25,7 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/quantum_cloud_front_775.jpg?raw=true" /></div>
 
-<div align=center>雕塑家安东尼·葛姆雷使用随机游走算法创作的雕塑——“量子云”</div>
+<div align=center>雕塑家安东尼·葛姆雷使用随机游走算法创作的雕塑——《量子云》</div>
 
 * **自回避随机游走**
 
@@ -47,6 +47,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散现象是分子的内迁移现象。从微观上分析是大量分子做无规则热运动时，分子之间发生相互碰撞的结果。由于不同空间区域的分子密度分布不均匀，分子发生碰撞的情况也不同。这种碰撞迫使密度大的区域的分子向密度小的区域转移，最后达到均匀的密度分布。</font>
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/DiffusionMicroMacro.gif?raw=true" /></div>
+
+<div align=center>不同尺度下的扩散</div>
 
 * **扩散定律**
 

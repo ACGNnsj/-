@@ -193,7 +193,10 @@
 
 不难看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值约为步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{1}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{1}{2}" title="\frac{1}{2}" /></a>。
 
-而
+又由之前讨论有
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x})=nE(s)=n[0.75\times&space;1&plus;0.25\times&space;(-1)]=\frac{1}{2}n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x})=nE(s)=n[0.75\times&space;1&plus;0.25\times&space;(-1)]=\frac{1}{2}n" title="E(\overline{x})=nE(s)=n[0.75\times 1+0.25\times (-1)]=\frac{1}{2}n" /></a></div>
+
 
 
 

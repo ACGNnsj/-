@@ -145,6 +145,11 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_2-1.png?raw=true" /></div>
 
+同样我们可以看出<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>在<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>附近波动，但波动幅度却明显比之前要小。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们具体研究<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>的波动幅度与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的关系，下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_2-2.png?raw=true" /></div>
 
 
 ###4. 结果讨论

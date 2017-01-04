@@ -113,7 +113,9 @@
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-1.py)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们取行人人数为10000，模拟三次得如下结果
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-1.png?raw=true" /></div>
 
 
 ###4. 结果讨论

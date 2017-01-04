@@ -120,7 +120,9 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E\left&space;(&space;\overline{x}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{n}\sum_{i=1}^{n}x_{i}\right&space;)=\frac{1}{n}\sum_{i=1}^{n}E\left&space;(&space;x_{i}&space;\right&space;)=\frac{1}{n}nE\left&space;(&space;x&space;\right&space;)=\frac{1}{2}\times&space;1&plus;\frac{1}{2}\times\left&space;(&space;-1&space;\right&space;)=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E\left&space;(&space;\overline{x}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{n}\sum_{i=1}^{n}x_{i}\right&space;)=\frac{1}{n}\sum_{i=1}^{n}E\left&space;(&space;x_{i}&space;\right&space;)=\frac{1}{n}nE\left&space;(&space;x&space;\right&space;)=\frac{1}{2}\times&space;1&plus;\frac{1}{2}\times\left&space;(&space;-1&space;\right&space;)=0" title="E\left ( \overline{x} \right )=E\left ( \ \frac{1}{n}\sum_{i=1}^{n}x_{i}\right )=\frac{1}{n}\sum_{i=1}^{n}E\left ( x_{i} \right )=\frac{1}{n}nE\left ( x \right )=\frac{1}{2}\times 1+\frac{1}{2}\times\left ( -1 \right )=0" /></a></div>
 
+下面是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-2.png?raw=true" /></div>
 
 ###4. 结果讨论
 

@@ -147,6 +147,15 @@
 
 同样我们可以看出<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>在<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>附近波动，但波动幅度却明显比之前要小。
 
+显然，由于每步的位移<a href="http://www.codecogs.com/eqnedit.php?latex=s" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s" title="s" /></a>服从均匀分布<a href="http://www.codecogs.com/eqnedit.php?latex=U[-1,1]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?U[-1,1]" title="U[-1,1]" /></a>，有
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(s)=\frac{1}{2}\left&space;[&space;1&plus;\left&space;(&space;-1&space;\right&space;)&space;\right&space;]=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s)=\frac{1}{2}\left&space;[&space;1&plus;\left&space;(&space;-1&space;\right&space;)&space;\right&space;]=0" title="E(s)=\frac{1}{2}\left [ 1+\left ( -1 \right ) \right ]=0" /></a></div>
+
+从而由之前讨论知
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(\bar{x})=nE(s)=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\bar{x})=nE(s)=0" title="E(\bar{x})=nE(s)=0" /></a></div>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们具体研究<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>的波动幅度与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的关系。下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_2-2.png?raw=true" /></div>

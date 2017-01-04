@@ -116,6 +116,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们取行人人数为10000，模拟三次得如下结果
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-1.png?raw=true" /></div>
+
 可以看出10000名行人的平均位移<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>的期望值大致为<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>，这是由于
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E\left&space;(&space;\overline{x}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E\left&space;(&space;\overline{x}&space;\right&space;)=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}x_{i}\right&space;)" title="E\left ( \overline{x} \right )=E\left ( \ \frac{1}{N}\sum_{i=1}^{N}x_{i}\right )" /></a><a href="http://www.codecogs.com/eqnedit.php?latex==E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}\sum_{j=1}^{n}s_{ij}\right&space;)=\frac{1}{N}NnE\left&space;(&space;s&space;\right&space;)=n\left&space;[&space;\frac{1}{2}\times&space;1&plus;\frac{1}{2}\times&space;\left&space;(&space;-1&space;\right&space;)&space;\right&space;]=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?=E\left&space;(&space;\&space;\frac{1}{N}\sum_{i=1}^{N}\sum_{j=1}^{n}s_{ij}\right&space;)=\frac{1}{N}NnE\left&space;(&space;s&space;\right&space;)=n\left&space;[&space;\frac{1}{2}\times&space;1&plus;\frac{1}{2}\times&space;\left&space;(&space;-1&space;\right&space;)&space;\right&space;]=0" title="=E\left ( \ \frac{1}{N}\sum_{i=1}^{N}\sum_{j=1}^{n}s_{ij}\right )=\frac{1}{N}NnE\left ( s \right )=n\left [ \frac{1}{2}\times 1+\frac{1}{2}\times \left ( -1 \right ) \right ]=0" /></a></div>
@@ -135,6 +136,16 @@
 从而有
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E\left&space;[\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]=\sum_{j=1}^{n}E\left&space;(&space;s_{ij}^{2}&space;\right&space;)=nE\left&space;(&space;s_{ij}^{2}&space;\right&space;)=n\left&space;[&space;\frac{1}{2}\times&space;1^{2}&plus;&space;\frac{1}{2}\times&space;\left&space;(-1&space;\right&space;)^{2}&space;\right&space;]=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E\left&space;[\left&space;(&space;\sum_{j=1}^{n}s_{ij}&space;\right&space;)^{2}&space;\right&space;]=\sum_{j=1}^{n}E\left&space;(&space;s_{ij}^{2}&space;\right&space;)=nE\left&space;(&space;s_{ij}^{2}&space;\right&space;)=n\left&space;[&space;\frac{1}{2}\times&space;1^{2}&plus;&space;\frac{1}{2}\times&space;\left&space;(-1&space;\right&space;)^{2}&space;\right&space;]=n" title="E\left [\left ( \sum_{j=1}^{n}s_{ij} \right )^{2} \right ]=\sum_{j=1}^{n}E\left ( s_{ij}^{2} \right )=nE\left ( s_{ij}^{2} \right )=n\left [ \frac{1}{2}\times 1^{2}+ \frac{1}{2}\times \left (-1 \right )^{2} \right ]=n" /></a></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来，我们取消步长为固定值的限制，使每步的位移在<a href="http://www.codecogs.com/eqnedit.php?latex=\left&space;[&space;-1,1&space;\right&space;]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\left&space;[&space;-1,1&space;\right&space;]" title="\left [ -1,1 \right ]" /></a>间等概率随机取值。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-2.py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们同样取行人人数为10000，模拟三次得如下结果
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-2.png?raw=true" /></div>
+
+
 
 ###4. 结果讨论
 

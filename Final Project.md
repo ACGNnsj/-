@@ -175,6 +175,7 @@
 
 由<a href="http://www.codecogs.com/eqnedit.php?latex=s\sim&space;U[-1,1]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?s\sim&space;U[-1,1]" title="s\sim U[-1,1]" /></a>，有
 
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(s^{2})=D(s)&plus;[E(s)]^{2}=\frac{[1-(-1)]^{2}}{12}&plus;0^{2}=\frac{1}{3}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s^{2})=D(s)&plus;[E(s)]^{2}=\frac{[1-(-1)]^{2}}{12}&plus;0^{2}=\frac{1}{3}" title="E(s^{2})=D(s)+[E(s)]^{2}=\frac{[1-(-1)]^{2}}{12}+0^{2}=\frac{1}{3}" /></a></div>
 
 
 ###4. 结果讨论

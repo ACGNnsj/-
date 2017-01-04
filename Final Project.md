@@ -206,12 +206,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-2.png?raw=true" /></div>
+
+
 从拟合曲线可知，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>大致是<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的二次函数。
 
 由于该种情况下，<a href="http://www.codecogs.com/eqnedit.php?latex=E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" title="E(s)=0.75\times 1+0.25\times (-1)=\frac{1}{2}\neq 0" /></a>，<a href="http://www.codecogs.com/eqnedit.php?latex=E(s^{2})=0.75\times&space;1^{2}&plus;0.25\times&space;(-1)^{2}=1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s^{2})=0.75\times&space;1^{2}&plus;0.25\times&space;(-1)^{2}=1" title="E(s^{2})=0.75\times 1^{2}+0.25\times (-1)^{2}=1" /></a>，则有
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j&space;,1\leq&space;i,j\leq&space;n}^{}E(s_{i})E(s_{j})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j&space;,1\leq&space;i,j\leq&space;n}^{}E(s_{i})E(s_{j})" title="E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})+\sum_{i\neq j ,1\leq i,j\leq n}^{}E(s_{i})E(s_{j})" /></a><a href="http://www.codecogs.com/eqnedit.php?latex==nE(s^{2})&plus;n(n-1)[E(s)]^{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?=nE(s^{2})&plus;n(n-1)[E(s)]^{2}" title="=nE(s^{2})+n(n-1)[E(s)]^{2}" /></a>
-
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j,1\leq&space;i,j\leq&space;n}^{&space;}E(s_{i})E(s_{j})&space;\\=nE(s^{2})&plus;n(n-1)[E(s)]^{2}=n&plus;\frac{1}{4}n(n-1)=\frac{1}{4}n(n&plus;3)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})&plus;\sum_{i\neq&space;j,1\leq&space;i,j\leq&space;n}^{&space;}E(s_{i})E(s_{j})&space;\\=nE(s^{2})&plus;n(n-1)[E(s)]^{2}=n&plus;\frac{1}{4}n(n-1)=\frac{1}{4}n(n&plus;3)" title="E(\overline{x^{2}})=E[(\sum_{i=1}^{n}s_{i})^{2}]=\sum_{i=1}^{n}E(s_{i}^{2})+\sum_{i\neq j,1\leq i,j\leq n}^{ }E(s_{i})E(s_{j}) \\=nE(s^{2})+n(n-1)[E(s)]^{2}=n+\frac{1}{4}n(n-1)=\frac{1}{4}n(n+3)" /></a></div>
 
 ###4. 结果讨论
 

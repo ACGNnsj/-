@@ -197,6 +197,13 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=E(\overline{x})=nE(s)=n[0.75\times&space;1&plus;0.25\times&space;(-1)]=\frac{1}{2}n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(\overline{x})=nE(s)=n[0.75\times&space;1&plus;0.25\times&space;(-1)]=\frac{1}{2}n" title="E(\overline{x})=nE(s)=n[0.75\times 1+0.25\times (-1)]=\frac{1}{2}n" /></a></div>
 
+显然，这与模拟结果一致。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着我们具体研究<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的关系。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-6.py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
 
 

@@ -183,9 +183,13 @@
 
 显然，这与模拟所得图像高度一致。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面，我们按照**习题7.3**所说，研究当行人向两个方向移动的概率不等时的情况，我们取向左移动的概率<a href="http://www.codecogs.com/eqnedit.php?latex=p_{left}=0.25" target="_blank"><img src="http://latex.codecogs.com/gif.latex?p_{left}=0.25" title="p_{left}=0.25" /></a>，从而向右移动的概率<a href="http://www.codecogs.com/eqnedit.php?latex=p_{right}=0.75" target="_blank"><img src="http://latex.codecogs.com/gif.latex?p_{right}=0.75" title="p_{right}=0.75" /></a>。
 
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-5.py)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们同样取行人人数为10000，模拟三次得如下结果
 
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-1.png?raw=true" /></div>
 
 
 ###4. 结果讨论

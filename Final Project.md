@@ -57,7 +57,7 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/DiffusionMicroMacro.gif?raw=true" /></div>
 
-<div align=center>不同尺度下的扩散</div>
+<div align=center>不同尺度下观察到的扩散过程</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;菲克第一定律假设从高浓度区域往低浓度流的通量大小与浓度梯度（空间导数）成正比，通过这个假设，菲克第一定律把扩散通量与浓度联系起来。在一维空间下的菲克第一定律如下：
 

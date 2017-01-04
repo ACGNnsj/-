@@ -208,7 +208,11 @@
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-2.png?raw=true" /></div>
 从拟合曲线可知，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>大致是<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的二次函数。
 
-由于该种情况下，
+由于该种情况下，<a href="http://www.codecogs.com/eqnedit.php?latex=E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E(s)=0.75\times&space;1&plus;0.25\times&space;(-1)=\frac{1}{2}\neq&space;0" title="E(s)=0.75\times 1+0.25\times (-1)=\frac{1}{2}\neq 0" /></a>，则有
+
+
+
+
 ###4. 结果讨论
 
 ---

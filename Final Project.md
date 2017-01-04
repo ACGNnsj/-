@@ -139,7 +139,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来，我们取消步长为固定值的限制，使每步的位移在<a href="http://www.codecogs.com/eqnedit.php?latex=\left&space;[&space;-1,1&space;\right&space;]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\left&space;[&space;-1,1&space;\right&space;]" title="\left [ -1,1 \right ]" /></a>间等概率随机取值。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-2.py)
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-1.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们同样取行人人数为10000，模拟三次得如下结果
 

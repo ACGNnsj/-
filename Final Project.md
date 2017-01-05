@@ -306,6 +306,11 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-2.png?raw=true" /></div>
 
+如习题**7.9**所说，扩散进行一段时间后，粒子呈正态分布（高斯分布）
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\rho&space;(x,t)=\frac{1}{\sigma&space;}e^{-\frac{x^{2}}{2\sigma&space;^{2}}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho&space;(x,t)=\frac{1}{\sigma&space;}e^{-\frac{x^{2}}{2\sigma&space;^{2}}}" title="\rho (x,t)=\frac{1}{\sigma }e^{-\frac{x^{2}}{2\sigma ^{2}}}" /></a></div>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然扩散方程可以由大量粒子的格点随机游走得到，那我们不妨试试模拟初始时刻大量粒子聚集在原点的格点随机游走。
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project3-2.py)

@@ -231,7 +231,7 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/GIF1.gif?raw=true" /></div>
 
-
+我们可以看出红色箭头会在出发点附近一定大小的区域内游走相当长的时间，事实上，对于一维和二维点阵随机游走，只要步数足够大，任意游动的点必定能返回它的出发点，该定理是著名数学家波利亚在1921年证明的。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着，我们模拟在每一步的方向和步幅都随机的情况下的二维随机游走轨迹。
 
@@ -256,6 +256,7 @@
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-2.png?raw=true" /></div>
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-3.png?raw=true" /></div>
+
 
 
 #### Ⅱ 从随机游走到扩散

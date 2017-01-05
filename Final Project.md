@@ -245,6 +245,20 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-3.png?raw=true" /></div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，我们再模拟三维点阵随机游走的轨迹。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-4.py)
+
+下面是三次模拟的轨迹图
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-1.png?raw=true" /></div>
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-2.png?raw=true" /></div>
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-3.png?raw=true" /></div>
+
+
+
 
 
 ###4. 结果讨论

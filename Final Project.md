@@ -286,7 +286,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一维情况下，我们将概率密度函数写为<a href="http://www.codecogs.com/eqnedit.php?latex=\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" title="\rho (x,t)=\rho (i\Delta x,n\Delta t)=\rho (i,n)" /></a>，则对应的扩散方程为
 
-
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" title="\frac{\partial \rho }{\partial t}=D\frac{\partial ^{2}\rho }{\partial x^{2}}" /></a></div>
 
 ###4. 结果讨论
 

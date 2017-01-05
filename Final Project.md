@@ -306,6 +306,12 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-2.png?raw=true" /></div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然扩散方程可以由大量粒子的格点随机游走得到，那我们不妨试试模拟初始时刻大量粒子聚集在原点的格点随机游走。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project3-2.py)
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-1.png?raw=true" /></div>
+
 
 ###4. 结果讨论
 

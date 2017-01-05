@@ -357,7 +357,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得不同时刻的粒子分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-3.png?raw=true" /></div>
 
 
 ###4. 结果讨论

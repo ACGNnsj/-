@@ -268,6 +268,14 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=P(i,j,k,n)=\frac{1}{6}[P(i&plus;1,j,k,n-1)&plus;P(i-1,j,k,n-1)&plus;P(i,j&plus;1,k,n-1)\\&plus;P(i,j-1,k,n-1)&plus;P(i,j,k&plus;1,n-1)&plus;P(i,j,k-1,n-1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P(i,j,k,n)=\frac{1}{6}[P(i&plus;1,j,k,n-1)&plus;P(i-1,j,k,n-1)&plus;P(i,j&plus;1,k,n-1)\\&plus;P(i,j-1,k,n-1)&plus;P(i,j,k&plus;1,n-1)&plus;P(i,j,k-1,n-1)]" title="P(i,j,k,n)=\frac{1}{6}[P(i+1,j,k,n-1)+P(i-1,j,k,n-1)+P(i,j+1,k,n-1)\\+P(i,j-1,k,n-1)+P(i,j,k+1,n-1)+P(i,j,k-1,n-1)]" /></a></div>
 
+改写上式，可得
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=P(i,j,k,n)-P(i,j,k,n-1)\\=\frac{1}{6}[P(i&plus;1,j,k,n-1)-2P(i,j,k,n-1)&plus;P(i-1,j,k,n-1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P(i,j,k,n)-P(i,j,k,n-1)\\=\frac{1}{6}[P(i&plus;1,j,k,n-1)-2P(i,j,k,n-1)&plus;P(i-1,j,k,n-1)]" title="P(i,j,k,n)-P(i,j,k,n-1)\\=\frac{1}{6}[P(i+1,j,k,n-1)-2P(i,j,k,n-1)+P(i-1,j,k,n-1)]" /></a></div>
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=&plus;\frac{1}{6}[P(i,j&plus;1,k,n-1)-2P(i,j,k,n-1)&plus;P(i,j-1,k,n-1)]\\&plus;\frac{1}{6}[P(i,j,k&plus;1,n-1)-2P(i,j,k,n-1)&plus;P(i,j,k-1,n-1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?&plus;\frac{1}{6}[P(i,j&plus;1,k,n-1)-2P(i,j,k,n-1)&plus;P(i,j-1,k,n-1)]\\&plus;\frac{1}{6}[P(i,j,k&plus;1,n-1)-2P(i,j,k,n-1)&plus;P(i,j,k-1,n-1)]" title="+\frac{1}{6}[P(i,j+1,k,n-1)-2P(i,j,k,n-1)+P(i,j-1,k,n-1)]\\+\frac{1}{6}[P(i,j,k+1,n-1)-2P(i,j,k,n-1)+P(i,j,k-1,n-1)]" /></a></div>
+
+
+
 ###4. 结果讨论
 
 ---

@@ -312,6 +312,8 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-1.png?raw=true" /></div>
 
+可见两种方法所得的粒子分布吻合程度相当高，这恰好印证了两种方法的一致性。
+
 
 ###4. 结果讨论
 

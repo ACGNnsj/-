@@ -323,32 +323,41 @@
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project4-1.py)
 
-初始时刻的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们用高度表示某一位置的粒子数密度，初始时刻的分布如下
+
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=50" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=50" title="n=50" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=50" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=50" title="n=50" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-2%2050.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=200" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=200" title="n=200" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=200" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=200" title="n=200" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-3%20200.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=500" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=500" title="n=500" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=500" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=500" title="n=500" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-4%20500.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=1000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=1000" title="n=1000" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=1000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=1000" title="n=1000" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-5%201000.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=2000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=2000" title="n=2000" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=2000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=2000" title="n=2000" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-6%202000.png?raw=true" /></div>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=n=4000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=4000" title="n=4000" /></a>时的分布如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=4000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=4000" title="n=4000" /></a>时的分布如下
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-7%204000.png?raw=true" /></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了更清楚地理解扩散方程和随机游走的联系，我们再用随机游走的方法模拟这个问题
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project4-2.py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得不同时刻的粒子分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
 
 
 ###4. 结果讨论

@@ -292,9 +292,9 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=D\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=D\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" title="\frac{\rho (i,n+1)-\rho (i,n)}{\Delta t}=D\frac{\rho (i+1,n)-2\rho (i,n)+\rho (i-1,n)}{(\Delta x)^{2}}" /></a></div>
 
-改写为递推式有
+改写为递推形式有
 
-<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=D\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=D\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" title="\frac{\rho (i,n+1)-\rho (i,n)}{\Delta t}=D\frac{\rho (i+1,n)-2\rho (i,n)+\rho (i-1,n)}{(\Delta x)^{2}}" /></a></div>
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\rho&space;(i,n&plus;1)=\rho&space;(i,n)&plus;\frac{D\Delta&space;t}{(\Delta&space;x)^{2}}[\rho&space;(i&plus;1,n)&plus;\rho&space;(i-1,n)-2\rho&space;(i,n)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho&space;(i,n&plus;1)=\rho&space;(i,n)&plus;\frac{D\Delta&space;t}{(\Delta&space;x)^{2}}[\rho&space;(i&plus;1,n)&plus;\rho&space;(i-1,n)-2\rho&space;(i,n)]" title="\rho (i,n+1)=\rho (i,n)+\frac{D\Delta t}{(\Delta x)^{2}}[\rho (i+1,n)+\rho (i-1,n)-2\rho (i,n)]" /></a></div>
 
 ###4. 结果讨论
 

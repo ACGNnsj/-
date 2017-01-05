@@ -245,7 +245,7 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-3.png?raw=true" /></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，我们再模拟三维点阵随机游走的轨迹。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，我们还可以较为容易地模拟三维点阵随机游走的轨迹。
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-4.py)
 
@@ -258,7 +258,7 @@
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-3.png?raw=true" /></div>
 
 
-
+#### Ⅱ 从随机游走到扩散
 
 
 ###4. 结果讨论

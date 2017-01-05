@@ -227,7 +227,7 @@
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-2.py)
 
-这是<a href="http://www.codecogs.com/eqnedit.php?latex=33\times&space;33" target="_blank"><img src="http://latex.codecogs.com/gif.latex?33\times&space;33" title="33\times 33" /></a>网格上的随机游走动画
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是<a href="http://www.codecogs.com/eqnedit.php?latex=33\times&space;33" target="_blank"><img src="http://latex.codecogs.com/gif.latex?33\times&space;33" title="33\times 33" /></a>网格上的随机游走动画
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/GIF1.gif?raw=true" /></div>
 
@@ -237,7 +237,7 @@
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-3.py)
 
-下面是三次模拟的轨迹图
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面是三次模拟的轨迹图
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-1.png?raw=true" /></div>
 
@@ -249,7 +249,7 @@
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-4.py)
 
-下面是三次模拟的轨迹图
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面是三次模拟的轨迹图
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-1.png?raw=true" /></div>
 

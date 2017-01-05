@@ -288,6 +288,10 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" title="\frac{\partial \rho }{\partial t}=D\frac{\partial ^{2}\rho }{\partial x^{2}}" /></a></div>
 
+其有限差分形式如下
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\rho&space;(i,n&plus;1)-\rho&space;(i,n)}{\Delta&space;t}=\frac{\rho&space;(i&plus;1,n)-2\rho&space;(i,n)&plus;\rho&space;(i-1,n)}{(\Delta&space;x)^{2}}" title="\frac{\rho (i,n+1)-\rho (i,n)}{\Delta t}=\frac{\rho (i+1,n)-2\rho (i,n)+\rho (i-1,n)}{(\Delta x)^{2}}" /></a></div>
+
 ###4. 结果讨论
 
 ---

@@ -367,10 +367,16 @@
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" title="S=-k\sum_{s}^{ }P_{s}\ln P_{s}" /></a></div>
 
+运用该式，我们就可计算各种过程中的熵。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们就来模拟计算奶油在咖啡中溶解过程中的熵。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project5-1.py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得扩散过程中不同时刻的熵如下
 
 
-
-
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_7-1.png?raw=true" /></div>
 
 
 ###4. 结果讨论

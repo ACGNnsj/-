@@ -6,8 +6,7 @@
 
 ---
 
-**[摘要]**
-
+**[摘要]**本文从随机游走出发，先研究了随机游走的一些性质，而后探究了扩散过程和随机游走的联系，并粗略探讨了扩散过程中的熵变。
 **[关键词]**随机游走；SAW；SAP；扩散；菲克定律；熵
 
 ###1. 引言
@@ -369,15 +368,15 @@
 
 运用该式，我们就可计算各种过程中的熵。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们就来模拟计算奶油在咖啡中溶解过程中的熵。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们就按习题**7.12**的要求来模拟计算奶油在咖啡中溶解过程中的熵随时间的变化。
 
 #### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project5-1.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得扩散过程中不同时刻的熵如下
 
-
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_7-1.png?raw=true" /></div>
 
+可以看出，在奶油溶解的过程中，体系的熵一直在增加，且熵随时间（步数）变化的函数图像大致为一个向左平移后的对数函数。
 
 ###4. 结果讨论
 

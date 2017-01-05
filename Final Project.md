@@ -280,11 +280,13 @@
 
 其中<a href="http://www.codecogs.com/eqnedit.php?latex=D=\frac{1}{6}\frac{(\Delta&space;x)^{2}}{\Delta&space;t}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D=\frac{1}{6}\frac{(\Delta&space;x)^{2}}{\Delta&space;t}" title="D=\frac{1}{6}\frac{(\Delta x)^{2}}{\Delta t}" /></a>
 
-我们发现上式即为之前提到的扩散方程
+我们发现上式与我们之前提到的扩散方程形式完全一样
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\rho&space;}{\partial&space;t}=D\nabla^{2}\rho" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\rho&space;}{\partial&space;t}=D\nabla^{2}\rho" title="\frac{\partial \rho }{\partial t}=D\nabla^{2}\rho" /></a></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一维情况下，我们将概率密度函数写为<a href="http://www.codecogs.com/eqnedit.php?latex=\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" title="\rho (x,t)=\rho (i\Delta x,n\Delta t)=\rho (i,n)" /></a>，则对应的扩散方程为
+其实，当体系有大量粒子时，他们某一时刻出现在某一位置的概率<a href="http://www.codecogs.com/eqnedit.php?latex=P" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P" title="P" /></a>之和即为该时刻该位置的粒子数密度<a href="http://www.codecogs.com/eqnedit.php?latex=\rho" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho" title="\rho" /></a>。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一维情况下，我们将粒子数密度函数写为<a href="http://www.codecogs.com/eqnedit.php?latex=\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\rho&space;(x,t)=\rho&space;(i\Delta&space;x,n\Delta&space;t)=\rho&space;(i,n)" title="\rho (x,t)=\rho (i\Delta x,n\Delta t)=\rho (i,n)" /></a>，则对应的扩散方程为
 
 <div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;\rho&space;}{\partial&space;t}=D\frac{\partial&space;^{2}\rho&space;}{\partial&space;x^{2}}" title="\frac{\partial \rho }{\partial t}=D\frac{\partial ^{2}\rho }{\partial x^{2}}" /></a></div>
 

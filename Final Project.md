@@ -393,4 +393,6 @@
 
 **[1]**Nicholas J. Giordano，Hisao Nakanishi. 计算物理（第2版）[M]. 北京：清华大学出版社，2007.181-206.
 
-**[2]**Martin Evans.Plotting 3D random walk in Python[EB/OL].http://stackoverflow.com/questions/34920680/plotting-3d-random-walk-in-python ，2016.
+**[2]**Y. Daniel Liang.RandomWalk[EB/OL].http://www.cs.armstrong.edu/liang/py/html/RandomWalk.html ，2016.
+
+**[3]**Martin Evans.Plotting 3D random walk in Python[EB/OL].http://stackoverflow.com/questions/34920680/plotting-3d-random-walk-in-python ，2016.

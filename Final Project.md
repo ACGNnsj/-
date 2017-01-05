@@ -261,6 +261,9 @@
 
 #### Ⅱ 从随机游走到扩散
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们之前曾提到，随机游走和扩散是等价的，宏观上观测到的扩散现象其实就是大量粒子的随机游走行为。下面为了研究扩散问题的处理方法，我们讨论单个粒子在简单立方点阵中的随机游走。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记<a href="http://www.codecogs.com/eqnedit.php?latex=P(i,j,k,n)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P(i,j,k,n)" title="P(i,j,k,n)" /></a>为粒子在<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>时刻（即第<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>步）出现在点<a href="http://www.codecogs.com/eqnedit.php?latex=(i,j,k)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(i,j,k)" title="(i,j,k)" /></a>处的概率，
 
 ###4. 结果讨论
 

@@ -359,6 +359,19 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-3.png?raw=true" /></div>
 
+可以看出，两种方法所得的粒子分布情况是一致的。
+
+#### Ⅲ 扩散过程中的熵
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如之前所说，熵的统计学定义为
+
+<div align=center><a href="http://www.codecogs.com/eqnedit.php?latex=S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S=-k\sum_{s}^{&space;}P_{s}\ln&space;P_{s}" title="S=-k\sum_{s}^{ }P_{s}\ln P_{s}" /></a></div>
+
+
+
+
+
+
 
 ###4. 结果讨论
 

@@ -390,3 +390,6 @@
 ---
 
 <h4 align="center">参考文献</h4>
+
+**[1]**Nicholas J. Giordano，Hisao Nakanishi. 计算物理（第2版）[M]. 北京：清华大学出版社，2007.181-206.
+**[2]**

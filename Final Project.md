@@ -319,6 +319,21 @@
 
 可见两种方法所得的粒子分布吻合程度相当高，这恰好印证了两种方法的一致性。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们接下来研究教材提到的奶油在咖啡中溶解的问题。该问题可合理简化为初始时刻在一个正方形区域内均匀分布的粒子的二维扩散问题。我们首先用扩散方程所得递推式进行模拟。
+
+#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project4-1.py)
+
+初始时刻的分布如下
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=50" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=50" title="n=50" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-2%2050.png?raw=true" /></div>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=200" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=200" title="n=200" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-3%20200.png?raw=true" /></div>
+
 
 ###4. 结果讨论
 

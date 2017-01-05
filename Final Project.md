@@ -334,6 +334,22 @@
 
 <div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-3%20200.png?raw=true" /></div>
 
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=500" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=500" title="n=500" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-4%20500.png?raw=true" /></div>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=1000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=1000" title="n=1000" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-5%201000.png?raw=true" /></div>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=2000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=2000" title="n=2000" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-6%202000.png?raw=true" /></div>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=n=4000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=4000" title="n=4000" /></a>时的分布如下
+
+<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-7%204000.png?raw=true" /></div>
+
 
 ###4. 结果讨论
 

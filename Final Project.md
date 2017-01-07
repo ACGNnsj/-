@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在很多系统都存在不同类型的随机游走，他们都具有相似结构。单个的随机事件我们不可预测，但随机大量的群体行为，却是精确可知的，这就是概率世界的魅力，在偶然中隐含着必然。随机性造成了低尺度下的差异性，但在高尺度下又表现为共同的特征的相似性。按照概率的观点“宇宙即是所有随机事件概率的总和”。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/quantum_cloud_front_775.jpg?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/quantum_cloud_front_775.jpg?raw=true" /></div>
 
 <div align=center>雕塑家安东尼·葛姆雷使用随机游走算法创作的雕塑——《量子云》</div>
 
@@ -31,13 +31,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在数学上，自回避随机游走（SAW）是指在网格上一系列重复经过同一个点的一系列移动。自回避多边形（SAP） 则是指网格上一个封闭的自回避随机游走的路径。自回避随机游走最早被保罗·弗洛里提出用来模拟链状实体比如溶剂和聚合物的真实行为，它们拥有的体积禁止在空间同一个点上有多个物体。尽管物理学家提出了许多有数值模拟强力支持并被认为是正确的猜想，但是从数学角度来说，我们对自回避随机游走了解非常少。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/knot_3a_blog.jpg?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/knot_3a_blog.jpg?raw=true" /></div>
 
 <div align=center>一种自回避多边形</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在计算物理中，自回避随机游走是一个二维或三维欧几里得空间中有固定节点数和步长的链状路线，并且其被禁止穿过自身或其他路线。一个自回避随机游走系统满足所谓的排斥体积条件。在更高维度中，自回避随机游走被认为行为更像原本的随机游走。自回避随机游走和自回避多边形在模型化如蛋白质的线状或环状分子的拓扑和纽结理论行为时起到核心作用。自回避随机游走是分形的。例如，在二维空间中，分形维数是<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{4}{3}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{4}{3}" title="\frac{4}{3}" /></a>，三维空间中，分形维数接近<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{5}{3}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{5}{3}" title="\frac{5}{3}" /></a>，在四维和更高维空间中，分形维数为<a href="http://www.codecogs.com/eqnedit.php?latex=2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?2" title="2" /></a>。这个维数被称为上临界维数，当超过这个维数时排斥体积是微不足道的。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/HK4nV.jpg?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/HK4nV.jpg?raw=true" /></div>
 
 <div align=center>三维点阵自回避随机游走</div>
 
@@ -47,7 +47,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散现象是分子的内迁移现象。从微观上分析是大量分子做无规则热运动时，分子之间发生相互碰撞的结果。由于不同空间区域的分子密度分布不均匀，分子发生碰撞的情况也不同。这种碰撞迫使密度大的区域的分子向密度小的区域转移，最后达到均匀的密度分布。</font>
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/Blausen_0315_Diffusion.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Blausen_0315_Diffusion.png?raw=true" /></div>
 
 <div align=center>颜料在水中的扩散</div>
 
@@ -55,7 +55,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扩散以一个初始分布释放大量的无规则行走，观察他们的密度就会得到分布函数。1855年法国生理学家阿道夫·菲克提出了描述扩散规律的基本公式——菲克定律。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/DiffusionMicroMacro.gif?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/DiffusionMicroMacro.gif?raw=true" /></div>
 
 <div align=center>不同尺度下观察到的扩散过程</div>
 
@@ -85,7 +85,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;化学及热力学中所指的熵，是一种测量在动力学方面不能做功的能量总数，也就是当总体的熵增加，其做功能力也下降，熵的量度正是能量退化的指标。熵亦被用于计算一个系统中的失序现象，也就是计算该系统混乱的程度。熵是一个描述系统状态的函数，但是经常用熵的参考值和变化量进行分析比较，它在控制论、概率论、数论、天体物理、生命科学等领域都有重要应用，在不同的学科中也有引申出的更为具体的定义，是各领域十分重要的参量。
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/entropy.jpg?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/entropy.jpg?raw=true" /></div>
 
 <div align=center>熵增过程</div>
 
@@ -111,11 +111,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;显然，实现该程序的关键是如何模拟行人们等几率的向两个方向行走。我们可以通过产生一个介于<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?1" title="1" /></a>之间的随机数<a href="http://www.codecogs.com/eqnedit.php?latex=r" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r" title="r" /></a>来实现：若<a href="http://www.codecogs.com/eqnedit.php?latex=r<0.5" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r<0.5" title="r<0.5" /></a>，则行人向右走一步，否则行人向左走一步。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-1.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project1-1.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们取行人人数为10000，模拟三次得如下结果
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_1-1.png?raw=true" /></div>
 
 可以看出10000名行人的平均位移<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>在<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>附近波动且波动幅度随<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>增大，但<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x}" title="\overline{x}" /></a>的期望值大致为<a href="http://www.codecogs.com/eqnedit.php?latex=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0" title="0" /></a>，这是由于
 

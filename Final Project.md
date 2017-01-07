@@ -169,7 +169,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_2-2.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_2-2.png?raw=true" /></div>
 
 可以看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值仍然与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>成正比，但其值要比之前小很多。下面我们从理论上给出解释：
 
@@ -185,11 +185,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面，我们按照**习题7.3**所说，研究当行人向两个方向移动的概率不等时的情况，我们取向左移动的概率<a href="http://www.codecogs.com/eqnedit.php?latex=p_{left}=0.25" target="_blank"><img src="http://latex.codecogs.com/gif.latex?p_{left}=0.25" title="p_{left}=0.25" /></a>，从而向右移动的概率<a href="http://www.codecogs.com/eqnedit.php?latex=p_{right}=0.75" target="_blank"><img src="http://latex.codecogs.com/gif.latex?p_{right}=0.75" title="p_{right}=0.75" /></a>。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-5.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project1-5.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们同样取行人人数为10000，模拟三次得如下结果
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_3-1.png?raw=true" /></div>
 
 不难看出，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>的值约为步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{1}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{1}{2}" title="\frac{1}{2}" /></a>。
 
@@ -201,11 +201,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着我们具体研究<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>与步数<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的关系。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project1-6.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project1-6.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是一次模拟中<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>随步数的变化
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_3-2.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_3-2.png?raw=true" /></div>
 
 
 从拟合曲线可知，<a href="http://www.codecogs.com/eqnedit.php?latex=\overline{x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\overline{x^{2}}" title="\overline{x^{2}}" /></a>大致是<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>的二次函数。
@@ -219,43 +219,43 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了更直观地理解随机行走的过程，我们可以使用python中的turtle模块绘制二维点阵随机游走示意动画。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-1.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project2-1.py)
 
 这是<a href="http://www.codecogs.com/eqnedit.php?latex=17\times&space;17" target="_blank"><img src="http://latex.codecogs.com/gif.latex?17\times&space;17" title="17\times 17" /></a>网格上的随机游走动画
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/GIF0.gif?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/GIF0.gif?raw=true" /></div>
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-2.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project2-2.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是<a href="http://www.codecogs.com/eqnedit.php?latex=33\times&space;33" target="_blank"><img src="http://latex.codecogs.com/gif.latex?33\times&space;33" title="33\times 33" /></a>网格上的随机游走动画
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/GIF1.gif?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/GIF1.gif?raw=true" /></div>
 
 我们可以看出红色箭头会在出发点附近一定大小的区域内游走相当长的时间。事实上，对于一维和二维点阵随机游走，只要步数足够大，任意游动的点必定能返回它的出发点，该定理是著名数学家波利亚在1921年证明的。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着，我们模拟在每一步的方向和步幅都随机的情况下的二维随机游走轨迹。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-3.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project2-3.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面是三次模拟的轨迹图
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_4-1.png?raw=true" /></div>
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-2.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_4-2.png?raw=true" /></div>
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_4-3.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_4-3.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，我们还可以较为容易地模拟三维点阵随机游走的轨迹。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project2-4.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project2-4.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面是三次模拟的轨迹图
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_5-1.png?raw=true" /></div>
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-2.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_5-2.png?raw=true" /></div>
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_5-3.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_5-3.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以看出多数情况下，动点出发后离原点越来越远，没有返回出发点的迹象。实际上，波利亚也证明了在三维网格中随机游走，最终能回到出发点的概率只有大约 34% ，而且随着维度的增 加，回到出发点的概率将变得越来越低。在四维网格中随机游走，最终能回到出发点 的概率是 19.3% ，而在八维空间中，这个概率只有 7.3% 。 
 
@@ -302,9 +302,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们首先用以上由扩散方程得到的递推式模拟初始时刻粒子全部聚集在原点的情况。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project3-1.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project3-1.py)
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-2.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_6-2.png?raw=true" /></div>
 
 如习题**7.9**所说，扩散进行一段时间后，粒子呈正态分布（高斯分布）
 
@@ -313,51 +313,51 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然扩散方程可以由大量粒子的格点随机游走得到，那我们不妨试试模拟初始时刻大量粒子聚集在原点的格点随机游走。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project3-2.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project3-2.py)
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_6-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_6-1.png?raw=true" /></div>
 
 可见两种方法所得的粒子分布吻合程度相当高，这恰好印证了两种方法的一致性。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们接下来研究教材提到的奶油在咖啡中溶解的问题。该问题可合理简化为初始时刻在一个正方形区域内均匀分布的粒子的二维扩散问题。我们首先用扩散方程所得递推式进行模拟。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project4-1.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project4-1.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们用高度表示某一位置的粒子数密度，初始时刻的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-1%200.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=50" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=50" title="n=50" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-2%2050.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-2%2050.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=200" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=200" title="n=200" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-3%20200.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-3%20200.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=500" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=500" title="n=500" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-4%20500.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-4%20500.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=1000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=1000" title="n=1000" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-5%201000.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-5%201000.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=2000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=2000" title="n=2000" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-6%202000.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-6%202000.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.codecogs.com/eqnedit.php?latex=n=4000" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n=4000" title="n=4000" /></a>时的分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_8-7%204000.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_8-7%204000.png?raw=true" /></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了更清楚地理解扩散方程和随机游走的联系，我们再用随机游走的方法模拟这个问题
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project4-2.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project4-2.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得不同时刻的粒子分布如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_1-3.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_1-3.png?raw=true" /></div>
 
 可以看出，两种方法所得的粒子分布情况是一致的。
 
@@ -371,11 +371,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面我们就按习题**7.12**的要求来模拟计算奶油在咖啡中溶解过程中的熵随时间的变化。
 
-#### →[查看程序](https://github.com/ACGNnsj/-/blob/master/Final%20Project/Final%20Project5-1.py)
+#### →[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/Final%20Project5-1.py)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟所得扩散过程中不同时刻的熵如下
 
-<div align=center><img src="https://github.com/ACGNnsj/-/blob/master/Final%20Project/figure_7-1.png?raw=true" /></div>
+<div align=center><img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Final%20Project/figure_7-1.png?raw=true" /></div>
 
 可以看出，在奶油溶解的过程中，体系的熵一直在增加，且熵随时间（步数）变化的函数图像大致为一个向左平移后的对数函数。
 
